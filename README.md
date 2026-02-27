@@ -6,7 +6,7 @@
 
 **A zero-lock-in local-first knowledge base & modular workspace built on Markdown and Next.js 15.**
 
-[Website](https://getaxion.vercel.app) · [Online Demo](https://axion-demo.vercel.app/en/demo) · [Main Codebase](https://github.com/henriqqw/Axion)
+[Website](https://getaxion.vercel.app) · [Online Demo](https://axion-demo.vercel.app/en/demo)
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=nextdotjs)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org)
