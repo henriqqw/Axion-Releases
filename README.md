@@ -1,48 +1,69 @@
-# 🚀 Axion Releases
+<div align="center">
 
-> **Local-first. Privacy-focused. High performance.**
+<img src="icon.png" width="72" alt="Axion Logo" />
 
-Este repositório é dedicado exclusivamente à distribuição das versões oficiais do **Axion**. O Axion é um editor de notas moderno que combina a simplicidade do Markdown com o poder de um sistema estruturado de Blocos e Canvas.
+# Axion Releases
 
----
+**A zero-lock-in local-first knowledge base & modular workspace built on Markdown and Next.js 15.**
 
-## ✨ Destaques do Axion
+[Website](https://getaxion.vercel.app) · [Online Demo](https://axion-demo.vercel.app/en/demo) · [Main Codebase](https://github.com/henriqqw/Axion)
 
-- 🔒 **Privacidade Total:** Seus dados nunca saem da sua máquina. O Axion funciona 100% offline.
-- 📂 **Baseado em Markdown:** Seus arquivos são salvos em arquivos `.md` padrão, garantindo que você seja dono dos seus dados para sempre.
-- 🎨 **Suporte a Canvas:** Visualize ideias e conecte notas em um espaço infinito.
-- ⚡ **Performance Nativa:** Desenvolvido para ser leve e extremamente rápido.
-- 🧩 **Migração Fácil:** Importe seu vault do Obsidian ou arquivos Markdown existentes sem perder o formato.
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=nextdotjs)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38bdf8?logo=tailwindcss)](https://tailwindcss.com)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20|%20macOS-lightgrey?logo=windows)]()
 
----
-
-## 📥 Downloads Oficiais
-
-Escolha a versão mais recente para o seu sistema operacional:
-
-### 🪟 Windows
-* [**Baixar Axion para Windows (.exe)**](https://github.com/henriqqw/Axion-Releases/releases/latest)
-
-### 🍎 macOS
-* [**Baixar Axion para macOS (.zip)**](https://github.com/henriqqw/Axion-Releases/releases/latest)
-
-> **Nota:** Se você encontrar avisos de "Desenvolvedor não identificado" ao instalar no macOS ou Windows SmartScreen, é porque o app ainda não possui assinatura paga. Pode prosseguir com a instalação com segurança em "Mais informações" -> "Executar assim mesmo".
+</div>
 
 ---
 
-## 🛠️ Suporte e Feedback
+## Overview
 
-Como este repositório é apenas para distribuição, se você encontrar algum bug ou tiver sugestões, entre em contato via:
+Axion turns a local folder of `.md` files into a polished, interactive Notion-like workspace. This repository serves as the official distribution point for pre-compiled binaries. Axion features zero databases, zero subscriptions, and absolute file-system ownership.
 
-- 🐦 **Twitter:** [@chaosphory](https://twitter.com/chaosphory)
-- 📧 **E-mail:** [lanzonicmpny13@gmail.com](mailto:lanzonicmpny13@gmail.com)
-- 🌐 **Site Oficial:** [axion.henriqqw.com](https://axion.henriqqw.com)
+### The Unified Interface
+Axion blends native file types into a single high-performance experience:
+- **Pages** (`.md`): Rich-text WYSIWYG documents powered by Tiptap v3.
+- **Workspaces** (`.md`): Dynamic Datagrids aggregating folder metadata.
+- **Canvases** (`.canvas`): Infinite whiteboards powered by TLDRAW.
+
+---
+
+## Key Features
+
+| Category | Feature |
+|---|---|
+| **Local-First** | Zero cloud required. Your notes stay in your machine as standard Markdown. |
+| **Workspaces** | Notion-style Datagrids grouping specific folders with custom YAML properties. |
+| **Native Canvas** | Integrated ultra-fast infinite whiteboard with background auto-save. |
+| **Universal Export** | One-click export for PDF, HTML, and Markdown. |
+| **Tab Navigation** | Browser-like internal tab engine to switch instantly between documents. |
+| **Search Engine** | Fast search (`Cmd/Ctrl+K`) reading deep AST file data. |
 
 ---
 
-## ⚖️ Licença
+## Installation & Downloads
 
-O Axion é distribuído como software proprietário sob a licença atual do desenvolvedor. O código-fonte principal é mantido em um repositório privado para garantir a integridade do projeto.
+Choose the appropriate package for your system below.
+
+### 🪟 Windows (Installer)
+- Download the latest `Axion.Setup.exe` from the [Releases](https://github.com/henriqqw/Axion-Releases/releases) section.
+- Run the installer. If prompted by Windows SmartScreen, click "More info" -> "Run anyway".
+
+### 🍎 macOS (Disk Image)
+- Download `Axion-macOS.zip` from the [Releases](https://github.com/henriqqw/Axion-Releases/releases).
+- Extract and move the Axion app to your `Applications` folder.
+- If prompted about an "unidentified developer", right-click the app and select "Open".
 
 ---
-Desenvolvido com ❤️ por [Henrique Lanzoni](https://github.com/henriqqw).
+
+## Support
+
+Axion is engineered to be your long-term knowledge partner. 
+- **Developer:** [Henrique Lanzoni](https://github.com/henriqqw)
+- **Twitter:** [@chaosphory](https://twitter.com/chaosphory)
+- **Email:** [lanzonicmpny13@gmail.com](mailto:lanzonicmpny13@gmail.com)
+
+<div align="center">
+  <sub>Engineered by Henriqqw using Next.js · No cloud required · Your files, your rules.</sub>
+</div>
