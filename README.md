@@ -60,7 +60,7 @@ Choose the appropriate package for your system below.
 ## Support
 
 Axion is engineered to be your long-term knowledge partner. 
-- **Developer:** [Henrique Lanzoni](https://github.com/henriqqw)
+- **Developer:** [Henrique Lanzoni](https://caosdev.vercel.app/)
 - **Twitter:** [@chaosphory](https://twitter.com/chaosphory)
 - **Email:** [lanzonicmpny13@gmail.com](mailto:lanzonicmpny13@gmail.com)
 
